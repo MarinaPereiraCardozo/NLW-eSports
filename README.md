@@ -33,8 +33,6 @@ The project is called *Find your Duo*.
 It is a platform to find the perfect partner to play your favorite game together.
 
 <br>
-<hr>
-<br>
 
 ## Stack and tools
 
@@ -46,8 +44,6 @@ It is a platform to find the perfect partner to play your favorite game together
 * [Figma](https://www.figma.com/)
 * [Radix UI](https://www.radix-ui.com/)
 
-<br>
-<hr>
 <br>
 
 ## Quickstart
