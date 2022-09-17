@@ -6,7 +6,7 @@ import { GameController } from 'phosphor-react-native';
 
 export interface DuoCardProps {
   id: string;
-  hourStart: string;
+  hoursStart: string;
   hourEnd: string;
   name: string;
   useVoiceChannel: boolean;
@@ -34,7 +34,7 @@ export function DuoCard({data, onConnect}: Props) {
 
       <DuoInfo
         label="Disponibilidade"
-        value={`${data.weekDays.length} dias \u2022 ${data.hourStart} - ${data.hourEnd}`}
+        value={`${data.weekDays.length} dias \u2022 ${data.hoursStart} - ${data.hourEnd}`}
       />
 
       <DuoInfo
