@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  Project developed during the **[Next Level Week eSports]( https://nextlevelweek.com/)**, realized by **[@Rocketseat 💜]( https://github.com/Rocketseat)**.
+  Project developed during the Next Level Week eSports realized by Rocketseat 💜🚀
 </p>
 
 <br>
