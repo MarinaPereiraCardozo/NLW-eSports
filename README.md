@@ -4,7 +4,11 @@
 
 <br>
 
-Project developed during the **eSports** edition of [Rocketseat](https://www.rocketseat.com.br/)'s NLW 
+<p align="center">
+  Project developed during the **eSports** edition of [Rocketseat](https://www.rocketseat.com.br/)'s NLW 
+</p>
+
+<br>
 
 <!-- The web client is deployed on Vercel here:
 
@@ -13,15 +17,14 @@ The server is deployed on Fly here:
 -->
 
 <hr>
-
 <br>
 
   - [Description](#description)
   - [Stack and tools](#stack-and-tools)
   - [Quickstart](#quickstart)
 
+<br>
 <hr>
-
 <br>
 
 ## Description
@@ -29,8 +32,8 @@ The server is deployed on Fly here:
 The project is called *Find your Duo*.
 It is a platform to find the perfect partner to play your favorite game together.
 
+<br>
 <hr>
-
 <br>
 
 ## Stack and tools
@@ -43,13 +46,13 @@ It is a platform to find the perfect partner to play your favorite game together
 * [Figma](https://www.figma.com/)
 * [Radix UI](https://www.radix-ui.com/)
 
+<br>
 <hr>
-
 <br>
 
 ## Quickstart
 
-### Server
+### - Server
 
 First, create a new ``.env`` file on the root directory, using the `.env.example` template as base.
 
@@ -64,7 +67,7 @@ After that, to start the server, run:
 $ npm run dev
 ```
 
-### Web
+### - Web
 
 To run the local Vite web client:
 ```sh
