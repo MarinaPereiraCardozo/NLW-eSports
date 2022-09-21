@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRoute, useNavigation } from '@react-navigation/native'
 import { GameParams } from '../../@types/navigation';
 import { Entypo } from '@expo/vector-icons'
-import logoImage from '../../assets/logonlw-esports.png';
+import logoImage from '../../assets/logo-nlw-esports.png';
 import { THEME } from '../../theme';
 import { Background } from '../../components/Background';
 import { Heading } from '../../components/Heading';

@@ -22,9 +22,9 @@ export default function App() {
   const responseNotificationListener = useRef<Subscription>()
 
   // precisa executar o comando 'expo login' no terminal para não erro na hora de buscar o token
-  useEffect(() => {
-    getPushNotificationToken();
-  })
+  // useEffect(() => {
+  //   getPushNotificationToken();
+  // })
 
   useEffect(() => {
     getNotificationListener.current = Notifications.addNotificationReceivedListener(notification => {
